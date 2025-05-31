@@ -1,1 +1,1 @@
-[Website]("CoolTrainerEX.github.io")
+[Website]("https://CoolTrainerEX.github.io")
