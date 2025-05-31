@@ -1,1 +1,1 @@
-<iframe src="CoolTrainerEX.github.io"></iframe>
+[Website]("CoolTrainerEX.github.io")
